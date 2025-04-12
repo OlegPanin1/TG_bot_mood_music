@@ -7,5 +7,5 @@ services:
     volumes:
       - .:/app
     environment:
-      - BOT_TOKEN=your_telegram_token_here
+      - BOT_TOKEN=7725505257:AAG4DpKOUisVOZA16-Fn8ALb_Sxp6zVnRLQ
     restart: unless-stopped
